@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaaqipgoc62poyv6jofhvdlnbo2kn54ithjurzcmypk644ys2xiwt3q",
+      "defined-tags": {},
+      "display-name": "OCI_SEC_ALL_HTTPS",
+      "freeform-tags": {},
+      "id": "ocid1.networksecuritygroup.oc1.eu-frankfurt-1.aaaaaaaan6eq62vl55hswaqdx6ixu7yoico6h7b7xfulipjx2jp3eibchpvq",
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2020-01-10T17:57:54.951000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala"
+    }
+  ]
+}

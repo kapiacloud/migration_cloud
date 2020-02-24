@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaahhec5ktlgfh2iaor5o4dw7b4gkrix64ik3n7kqgd7n35uz3otg4q",
+      "defined-tags": {},
+      "display-name": "OCI_UNEP",
+      "egress-security-rules": [],
+      "freeform-tags": {},
+      "id": "ocid1.securitylist.oc1.eu-frankfurt-1.aaaaaaaap5n5nrse373ef2b346n5qnnsswyoazsdrqvmmavpe6vyukjk5fbq",
+      "ingress-security-rules": [
+        {
+          "description": null,
+          "icmp-options": null,
+          "is-stateless": false,
+          "protocol": "6",
+          "source": "192.168.206.12/32",
+          "source-type": "CIDR_BLOCK",
+          "tcp-options": {
+            "destination-port-range": {
+              "max": 22,
+              "min": 22
+            },
+            "source-port-range": null
+          },
+          "udp-options": null
+        }
+      ],
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2019-09-09T19:00:16.126000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala"
+    }
+  ]
+}

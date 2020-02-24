@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaalxvwkvvoym3e3nxpebbb2fwo2wc5nriex7mnd5o2codt2atr6kwq",
+      "defined-tags": {},
+      "display-name": "OCI_COR_JSC_01",
+      "freeform-tags": {},
+      "id": "ocid1.networksecuritygroup.oc1.eu-frankfurt-1.aaaaaaaa7i62vq67aacce6kembpsswmnxobbwxwg66mh34wlkudwyfijstpq",
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2020-01-21T19:40:37.848000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala"
+    },
+    {
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaalxvwkvvoym3e3nxpebbb2fwo2wc5nriex7mnd5o2codt2atr6kwq",
+      "defined-tags": {},
+      "display-name": "OCI_SEC_COR_HTTPS",
+      "freeform-tags": {},
+      "id": "ocid1.networksecuritygroup.oc1.eu-frankfurt-1.aaaaaaaau3rl3e2clz6734asb5iabe2d5v2fqr26jotxnkwmup5tjxt2xagq",
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2020-01-10T17:52:48.561000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala"
+    }
+  ]
+}

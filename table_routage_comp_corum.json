@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaalxvwkvvoym3e3nxpebbb2fwo2wc5nriex7mnd5o2codt2atr6kwq",
+      "defined-tags": {},
+      "display-name": "OCI_ROUTE_CORUM",
+      "freeform-tags": {},
+      "id": "ocid1.routetable.oc1.eu-frankfurt-1.aaaaaaaa22qrx5mkzhhhufhufy6niqugv63qik64ymrp7l7njcn4ifsu37za",
+      "lifecycle-state": "AVAILABLE",
+      "route-rules": [
+        {
+          "cidr-block": null,
+          "description": null,
+          "destination": "10.77.0.0/16",
+          "destination-type": "CIDR_BLOCK",
+          "network-entity-id": "ocid1.drg.oc1.eu-frankfurt-1.aaaaaaaaqg2gdy5cn4mgfjn4lppdxv6mhix4cr4pr7256tlimt6lcudbwubq"
+        },
+        {
+          "cidr-block": null,
+          "description": null,
+          "destination": "0.0.0.0/0",
+          "destination-type": "CIDR_BLOCK",
+          "network-entity-id": "ocid1.natgateway.oc1.eu-frankfurt-1.aaaaaaaastwv4t3m4cfegcxavaocsvsgnn6zh3eybnvzqmvh2dny5jzzqanq"
+        },
+        {
+          "cidr-block": null,
+          "description": null,
+          "destination": "10.12.0.0/16",
+          "destination-type": "CIDR_BLOCK",
+          "network-entity-id": "ocid1.drg.oc1.eu-frankfurt-1.aaaaaaaaqg2gdy5cn4mgfjn4lppdxv6mhix4cr4pr7256tlimt6lcudbwubq"
+        },
+        {
+          "cidr-block": null,
+          "description": null,
+          "destination": "192.168.0.0/16",
+          "destination-type": "CIDR_BLOCK",
+          "network-entity-id": "ocid1.drg.oc1.eu-frankfurt-1.aaaaaaaaqg2gdy5cn4mgfjn4lppdxv6mhix4cr4pr7256tlimt6lcudbwubq"
+        },
+        {
+          "cidr-block": null,
+          "description": null,
+          "destination": "172.18.51.0/26",
+          "destination-type": "CIDR_BLOCK",
+          "network-entity-id": "ocid1.drg.oc1.eu-frankfurt-1.aaaaaaaaqg2gdy5cn4mgfjn4lppdxv6mhix4cr4pr7256tlimt6lcudbwubq"
+        }
+      ],
+      "time-created": "2019-12-19T11:43:21.684000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala"
+    }
+  ]
+}

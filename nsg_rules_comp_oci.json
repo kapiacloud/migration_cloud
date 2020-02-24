@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "description": null,
+      "destination": null,
+      "destination-type": null,
+      "direction": "INGRESS",
+      "icmp-options": null,
+      "id": "0A0C41",
+      "is-stateless": null,
+      "is-valid": true,
+      "protocol": "6",
+      "source": "192.168.200.152/32",
+      "source-type": "CIDR_BLOCK",
+      "tcp-options": {
+        "destination-port-range": {
+          "max": 443,
+          "min": 443
+        },
+        "source-port-range": null
+      },
+      "time-created": "2020-01-10T17:57:55.155000+00:00",
+      "udp-options": null
+    },
+    {
+      "description": null,
+      "destination": null,
+      "destination-type": null,
+      "direction": "INGRESS",
+      "icmp-options": null,
+      "id": "480844",
+      "is-stateless": null,
+      "is-valid": true,
+      "protocol": "6",
+      "source": "192.168.206.152/32",
+      "source-type": "CIDR_BLOCK",
+      "tcp-options": {
+        "destination-port-range": {
+          "max": 443,
+          "min": 443
+        },
+        "source-port-range": null
+      },
+      "time-created": "2020-01-10T17:57:55.155000+00:00",
+      "udp-options": null
+    }
+  ]
+}

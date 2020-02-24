@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaaqipgoc62poyv6jofhvdlnbo2kn54ithjurzcmypk644ys2xiwt3q",
+      "defined-tags": {},
+      "display-name": "OCI_DYNAMIC_ROUTING_GATEWAY1",
+      "freeform-tags": {},
+      "id": "ocid1.drg.oc1.eu-frankfurt-1.aaaaaaaaqg2gdy5cn4mgfjn4lppdxv6mhix4cr4pr7256tlimt6lcudbwubq",
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2019-03-26T13:14:15.153000+00:00"
+    }
+  ]
+}

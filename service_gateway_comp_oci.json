@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "block-traffic": false,
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaaqipgoc62poyv6jofhvdlnbo2kn54ithjurzcmypk644ys2xiwt3q",
+      "defined-tags": {},
+      "display-name": "OCI_SERVICE_GATEWAY1",
+      "freeform-tags": {},
+      "id": "ocid1.servicegateway.oc1.eu-frankfurt-1.aaaaaaaaqc5gb5d6j6tulikpbvds7xubgpznxfrvhmm6zotrnmx6rc57b7kq",
+      "lifecycle-state": "AVAILABLE",
+      "route-table-id": null,
+      "services": [
+        {
+          "service-id": "ocid1.service.oc1.eu-frankfurt-1.aaaaaaaa7ncsqkj6lkz36dehifizupyn6qjqsmtepsegs23yyntnsy7qrvea",
+          "service-name": "All FRA Services In Oracle Services Network"
+        }
+      ],
+      "time-created": "2019-04-10T14:47:15.975000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala"
+    }
+  ]
+}

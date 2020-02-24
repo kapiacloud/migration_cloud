@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "availability-domain": null,
+      "cidr-block": "192.168.198.32/28",
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaadpzdgsdmmos42rraijt6gaqsphd7tvsabwa4smqz2ni44hb2bf7q",
+      "defined-tags": {},
+      "dhcp-options-id": "ocid1.dhcpoptions.oc1.eu-frankfurt-1.aaaaaaaaeogvm6rvll6wdze4urtphdztq3hpolnmgpltghpjaw3t67bni6sq",
+      "display-name": "OCI_SUBNET_MAINT_1",
+      "dns-label": "ocisubnetmaint1",
+      "freeform-tags": {},
+      "id": "ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaamgiyqjtm24d53ubrs5fvyrqpxh7ep6kowkc54kcr2ib337vqsuyq",
+      "ipv6-cidr-block": null,
+      "ipv6-public-cidr-block": null,
+      "ipv6-virtual-router-ip": null,
+      "lifecycle-state": "AVAILABLE",
+      "prohibit-public-ip-on-vnic": true,
+      "route-table-id": "ocid1.routetable.oc1.eu-frankfurt-1.aaaaaaaac3qq5ofnqtmjaeb4ris2vssm5rxrq3gafwb3yjpe7bnsj4rwdp6a",
+      "security-list-ids": [
+        "ocid1.securitylist.oc1.eu-frankfurt-1.aaaaaaaaj6sb33obqaxpi6rkwiv55v4znrgnrpojqeg6ajelxn3lzkoavcwq"
+      ],
+      "subnet-domain-name": "ocisubnetmaint1.kapia.oraclevcn.com",
+      "time-created": "2019-08-28T15:42:29.713000+00:00",
+      "vcn-id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala",
+      "virtual-router-ip": "192.168.198.33",
+      "virtual-router-mac": "00:00:17:BF:59:39"
+    }
+  ]
+}
