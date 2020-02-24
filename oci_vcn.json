@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "cidr-block": "192.168.198.0/24",
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaaqipgoc62poyv6jofhvdlnbo2kn54ithjurzcmypk644ys2xiwt3q",
+      "default-dhcp-options-id": "ocid1.dhcpoptions.oc1.eu-frankfurt-1.aaaaaaaaeogvm6rvll6wdze4urtphdztq3hpolnmgpltghpjaw3t67bni6sq",
+      "default-route-table-id": "ocid1.routetable.oc1.eu-frankfurt-1.aaaaaaaavfkleyu6ojgossophrskw4ban3wpalnlaxdbbdrkvukc3vbuxuya",
+      "default-security-list-id": "ocid1.securitylist.oc1.eu-frankfurt-1.aaaaaaaac6yantwqbcaq5uky4cq7tn4iwbe37frjrb7kmsgukapztvqxc65a",
+      "defined-tags": {},
+      "display-name": "OCI_VCN1",
+      "dns-label": "kapia",
+      "freeform-tags": {},
+      "id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa3jc75lmzkqxbxjkp7d6vvjivne762vn5lu6zpdgnl47iu7hb6ala",
+      "ipv6-cidr-block": null,
+      "ipv6-public-cidr-block": null,
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2019-03-29T08:36:49.334000+00:00",
+      "vcn-domain-name": "kapia.oraclevcn.com"
+    }
+  ]
+}
